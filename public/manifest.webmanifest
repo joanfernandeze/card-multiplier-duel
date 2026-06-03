@@ -1,0 +1,20 @@
+{
+  "name": "Card Multiplier Duel",
+  "short_name": "Card Multiplier",
+  "description": "A press-your-luck card game. Draw to multiply your score, cash out before you bust, and duel five wild decks against four bots.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#06060a",
+  "theme_color": "#06060a",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
